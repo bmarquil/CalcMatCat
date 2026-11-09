@@ -41,6 +41,7 @@ No requereix cap mena d'instal·lació de servidors ni de llibreries complexes. 
 
 ### Opció 1: En línia (GitHub Pages)
 Només cal que obris el repositori i facis clic a l'enllaç de **GitHub Pages** per fer-la servir directament des del navegador.
+(https://bmarquil.github.io/CalcMatCat/)
 
 ### Opció 2: En local
 1. Clona aquest dipòsit o descarrega el codi font:
